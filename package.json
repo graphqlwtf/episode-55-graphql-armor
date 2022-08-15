@@ -1,0 +1,22 @@
+{
+  "name": "episode-55",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@escape.tech/graphql-armor": "1.0.7",
+    "@graphql-yoga/node": "2.13.6",
+    "graphql": "16.5.0",
+    "ts-node": "10.9.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "2.0.0",
+    "typescript": "4.7.4"
+  }
+}
